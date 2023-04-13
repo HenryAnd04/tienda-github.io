@@ -1,0 +1,22 @@
+.sectionModa{
+    max-width: 100%;
+    height: 500px;
+    display: flex;
+    align-items: center;
+}
+
+.sectionModa img{
+    width: 33.4%;
+    height: 100%;
+}
+
+@media (max-width: 900px) {
+    .sectionModa{
+        height: auto;
+        flex-direction: column;
+    }
+    .sectionModa img{
+        width: 70%;
+        min-height: 200px;
+    }
+}

@@ -1,0 +1,14 @@
+const tituloMV = 'Misión y Visión';
+const mision = 'Somos una empresa líder en el mercado, orientada a ofrecer la mejor calidad y variedad en productos y servicios de venta, brindándole a nuestros clientes las mejores opciones de compra, contando con los establecimientos que poseen el mejor ambiente comodidad y seguridad, obteniendo de esta manera su confianza y lealtad; ofreciendo a las ciudades en las que tenemos presencia un estilo único de atención y calidad de vida a sus pobladores.';
+const vision = 'Ser la cadena de tiendas por departamentos en la región centroamericana que ofrezca la mejor calidad y variedad en servicios de venta y productos a sus clientes, generar un valor agregado a las ciudades a las que lleguemos y contribuir al desarrollo de nuestros colaboradores y accionistas, fortaleciendo nuestra solidez por medio de la planificación y el trabajo en equipo.'
+
+
+
+const tituloHistoria = 'Historia';
+const p1 = 'Fue en la bella ciudad de La Ceiba, a orillas del mar Caribe y a 494 kms. de la capital de Honduras, donde se inauguró la primera de las Tiendas Carrión, el 13 de Junio de 1970 bajo el nombre de Bazar Carrión, producto de la amplia Visión empresarial del Sr. Vicente Carrión y su esposa Francisca Carrión, viniéndose a convertir años más tarde en la primera, más grande y mejor tienda por departamentos de Honduras.';
+const p2 = 'Siendo La Ceiba en el tiempo en que se inauguró Tiendas Carrión, una de las mejores opciones de compra por el hecho de contar con almacenes de amplia tradición y prestigio en el ámbito nacional, se logró consolidar una imagen de prestigio, calidad y buenos precios, obteniéndose un éxito en las operaciones de la empresa y teniendo como resultado la inauguración del primer edificio propio de las tiendas y utilizando por primera vez la denominación de Tiendas Carrión en lugar de Bazar Carrión.';
+const p3 = 'El espíritu visionario y emprendedor de Don Vicente Carrión, unido al apoyo incondicional de Doña Francisca Carrión y la tenacidad empresarial de sus hijos Hernan, Darío, Oscar, Mirna y Francis, han hecho que las metas trazadas en la Visión de empresa de Tiendas Carrión hayan dado resultados por encima de las expectativas planteadas, ya que con miras a conquistar nuevos mercados dentro del territorio nacional, se expandieron las tiendas hacia las ciudades más importantes del país, obteniéndose una respuesta positiva en cada comunidad a la que se llegaba y luego se ha penetrado a mercados extranjeros a nivel Centroamericano como Costa Rica (2000), El Salvador (2003), Nicaragua (2004) y Guatemala (2005), logrando un éxito total en los mismos.';
+
+const info = [tituloMV, mision, vision, tituloHistoria, p1, p2, p3];
+
+export {info};
